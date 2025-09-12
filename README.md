@@ -1,4 +1,4 @@
-[A young IOS app developer from Türkiye.] https://1000logos.net/swift-logo/
+[A young IOS app developer from Türkiye.] [https://1000logos.net/swift-logo/](https://tr.m.wikipedia.org/wiki/Dosya:Swift_logo.svg)
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
