@@ -1,4 +1,4 @@
-[![MasterHead](https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png)
+![MasterHead](https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png)
 
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
