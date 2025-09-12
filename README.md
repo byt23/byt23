@@ -1,4 +1,4 @@
-[A young IOS app developer from Türkiye.] (https://tr.m.wikipedia.org/wiki/Dosya:Swift_logo.svg)
+[A young IOS app developer from Türkiye.] [![MasterHead](https://tr.m.wikipedia.org/wiki/Dosya:Swift_logo.svg)
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
