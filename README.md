@@ -1,4 +1,4 @@
-https://www.google.com/search?sca_esv=1cd912c63e8479c3&sxsrf=AE3TifMLGwbEepFCatKDl79qNRqu2-Z_JA:1757679081895&q=apple+swift+logo&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzrviPc2SkCy_EbmLwj3UWfITjxROtugSUzLNUI6HlcjnE0Hk-X-YAVGsaiil8MEWkEBgEooOgfjrYbwZ-YctyVAXC-O7Kocl6lovrFO3twIblkP93nTjVdOpzs-eIhnzre6JWfg&udm=2&sa=X&ved=2ahUKEwiWx7jqmNOPAxUlBdsEHQFRF4UQxKsJKAF6BAgSEAE&ictx=0&biw=1492&bih=768&dpr=2#vhid=5wApYDuhFrnieM&vssid=mosaic)
+https://www.google.com/search?sca_esv=1cd912c63e8479c3&sxsrf=AE3TifMLGwbEepFCatKDl79qNRqu2-Z_JA:1757679081895&q=apple+swift+logo&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzrviPc2SkCy_EbmLwj3UWfITjxROtugSUzLNUI6HlcjnE0Hk-X-YAVGsaiil8MEWkEBgEooOgfjrYbwZ-YctyVAXC-O7Kocl6lovrFO3twIblkP93nTjVdOpzs-eIhnzre6JWfg&udm=2&sa=X&ved=2ahUKEwiWx7jqmNOPAxUlBdsEHQFRF4UQxKsJKAF6BAgSEAE&ictx=0&biw=1492&bih=768&dpr=2#vhid=5wApYDuhFrnieM&vssid=mosaic
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
