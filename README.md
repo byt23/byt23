@@ -1,7 +1,6 @@
 ![MasterHead](https://goldenowl-asia-assets-production.s3.ap-southeast-1.amazonaws.com/uploads/2025-06-13T09%3A23%3A11.328Z_Swift-vs-Python-%20comparison.webp)
-
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
-<h3 align="center">A passionate IOS developer from Türkiye</h3>
+<h3 align="center">A passionate frontend developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byt23&label=Profile%20views&color=0e75b6&style=flat" alt="byt23" /> </p>
 
@@ -17,10 +16,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=byt23&show_icons=true&locale=en&layout=compact" alt="byt23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&locale=en" alt="byt23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byt23&" alt="byt23" /></p>
+
