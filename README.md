@@ -2,8 +2,10 @@
   <img src="https://github.com/user-attachments/assets/bd9526ce-9600-4cbd-bee6-67c3d132ade7" width="100%" alt="ML ve HealthTech Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
-<h3 align="center">A passionate AI developer from Turkiye</h3>
+<h1 align="center">Hello everyone, I'm Berkay TURAN.</h1>
+<h3 align="center">A computer engineering student in Okan University, I'm interested in MedTech - Image Processing with ML / DL.</h3>
+
+<h3 align="center">I'm 22. I'm from Turkiye 🇹🇷</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=byt23&label=Profile%20views&color=0e75b6&style=flat" alt="byt23" /> 
