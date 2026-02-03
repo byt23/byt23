@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://github.com/byt23/byt23/issues/1#issue-3893358040](https://private-user-images.githubusercontent.com/196918639/544595305-99832262-e039-4574-95b7-2e99842ec778.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAxNTUxOTksIm5iZiI6MTc3MDE1NDg5OSwicGF0aCI6Ii8xOTY5MTg2MzkvNTQ0NTk1MzA1LTk5ODMyMjYyLWUwMzktNDU3NC05NWI3LTJlOTk4NDJlYzc3OC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwM1QyMTQxMzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OTY4MDJjMzVjMjJkYTczM2E3MzA2ZDNlOTlmNjU5YzNkNWVjZDI0ZjJmMTAyYWEzNGNmNzJkNTE1YTRlMDBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QOPWPOpjOJa51sPKAxMnNCDyZbfA4yK3Eon2_EGLwHw)" width="100%" alt="ML ve HealthTech Banner">
+  <img src="![kapak](https://github.com/user-attachments/assets/bd9526ce-9600-4cbd-bee6-67c3d132ade7)
+" width="100%" alt="ML ve HealthTech Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
