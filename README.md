@@ -1,4 +1,5 @@
-![MasterHead]([https://www.instagram.com/p/DUT30BzCl0l--7H1rim2Dsg_QSAEKwolT9XMqc0/](https://www.instagram.com/p/DUT30BzCl0l--7H1rim2Dsg_QSAEKwolT9XMqc0/))
+![MasterHead](<img width="2120" height="1060" alt="image" src="https://github.com/user-attachments/assets/259435ad-cd9d-41d3-847d-5a11e377be8e" />
+)
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate AI developer from Turkiye</h3>
 
