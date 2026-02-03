@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BURAYA_YENI_LINKI_YAPISTIR" width="100%" alt="ML ve HealthTech Banner">
+  <img src="https://github.com/byt23/byt23/issues/1#issue-3893358040" width="100%" alt="ML ve HealthTech Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
