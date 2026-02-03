@@ -1,5 +1,4 @@
-[<img width="2120" height="1060" alt="image" src="https://github.com/user-attachments/assets/259435ad-cd9d-41d3-847d-5a11e377be8e" />
-](https://7t.ai/wp-content/uploads/2023/12/AI-machine-learning-use-cases-crop-2120x1060.jpg)
+![ML ve HealthTech Banner](https://gemini.google.com/share/a64c62f16eaa)
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate AI developer from Turkiye</h3>
 
