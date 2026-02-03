@@ -1,4 +1,4 @@
-![MasterHead](<img width="875" height="875" alt="image" src="https://github.com/user-attachments/assets/c715dca0-761c-460c-a7dd-f02a24670399" />
+![MasterHead](<img width="875" height="875" alt="image" src="https://github.com/user-attachments/assets/38c15040-d34b-4007-950c-590d487ddde6" />
 )
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate AI developer from Turkiye</h3>
