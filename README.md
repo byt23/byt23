@@ -1,4 +1,6 @@
-![ML ve HealthTech Banner](https://gemini.google.com/share/a64c62f16eaa)
+<p align="center">
+  <img src="(https://gemini.google.com/share/a64c62f16eaa)" width="100%" alt="ML ve HealthTech Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate AI developer from Turkiye</h3>
 
