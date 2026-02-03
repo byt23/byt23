@@ -1,4 +1,4 @@
-![MasterHead](https://www.instagram.com/p/DUT30BzCl0l--7H1rim2Dsg_QSAEKwolT9XMqc0/)
+![MasterHead]([https://www.instagram.com/p/DUT30BzCl0l--7H1rim2Dsg_QSAEKwolT9XMqc0/](https://www.instagram.com/p/DUT30BzCl0l--7H1rim2Dsg_QSAEKwolT9XMqc0/))
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate AI developer from Turkiye</h3>
 
