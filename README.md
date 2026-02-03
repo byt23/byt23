@@ -1,4 +1,4 @@
-![MasterHead](https://goldenowl-asia-assets-production.s3.ap-southeast-1.amazonaws.com/uploads/2025-06-13T09%3A23%3A11.328Z_Swift-vs-Python-%20comparison.webp)
+![MasterHead]([https://goldenowl-asia-assets-production.s3.ap-southeast-1.amazonaws.com/uploads/2025-06-13T09%3A23%3A11.328Z_Swift-vs-Python-%20comparison.webp](https://instagram.fist7-1.fna.fbcdn.net/v/t51.2885-19/626538582_18375153571082121_2020983195639326423_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NzUuYzIifQ&_nc_ht=instagram.fist7-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QH3XvRH-S2WqtZFjBORWXkLgqy54MShF1SKKcHzrnizZ6qJo94SsQpuNqWJOQ9p6OMsnSAGDb2KC-HRB75S4QIF&_nc_ohc=uVKXNa6OOToQ7kNvwHU776j&_nc_gid=AwZHYdXcITTXBBOMg13pGA&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AftczHEU4uNcGXpm_Acfs_7ksd8Ua4NOJrmvwDCqa34c1g&oe=69884614&_nc_sid=7d3ac5))
 <h1 align="center">Hi 👋, I'm Berkay TURAN.</h1>
 <h3 align="center">A passionate AI developer from Turkiye</h3>
 
