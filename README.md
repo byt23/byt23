@@ -7,9 +7,7 @@
 
 <h3 align="center">I'm 22. I'm from Turkiye 🇹🇷</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=byt23&label=Profile%20views&color=0e75b6&style=flat" alt="byt23" /> 
-</p>
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
