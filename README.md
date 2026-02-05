@@ -8,13 +8,6 @@
 <h3 align="center">I'm 22. I'm from Turkiye 🇹🇷</h3>
 
 
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=byt23" alt="byt23" />
-  </a> 
-</p>
-
 - 📫 How to reach me **berkayyasar2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -36,4 +29,9 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Achievements:</h3>
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge" title="Pull Shark">
 </p>
