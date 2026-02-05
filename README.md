@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello everyone, I'm Berkay TURAN.</h1>
-<h3 align="center">A 3rd year computer engineering student in Okan University, I'm interested in MedTech - Image Processing with ML / DL.</h3>
+<h3 align="center"> Third year computer engineering student in Okan University, I'm interested in MedTech - Image Processing with ML / DL.</h3>
 
 <h3 align="center">I'm 22. I'm from Turkiye 🇹🇷</h3>
 
