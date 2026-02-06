@@ -7,8 +7,9 @@
 
 <h3 align="center">I'm 22. I'm from Turkiye 🇹🇷</h3>
 
-
-- 📫 How to reach me **berkayyasar2004@gmail.com**
+<p align="center">
+  📫 How to reach me <strong>berkayyasar2004@gmail.com</strong>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,9 +36,9 @@
 <p align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge" title="Pull Shark">
 </p>
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Berkay's GitHub Stats" height="192" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Berkay's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
 </p>
-
