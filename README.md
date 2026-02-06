@@ -35,3 +35,8 @@
 <p align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge" title="Pull Shark">
 </p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayyasar2004&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Berkay's GitHub Stats" height="192" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyasar2004&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="192" />
+</p>
