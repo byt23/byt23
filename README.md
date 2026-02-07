@@ -89,10 +89,11 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10&hide_border=true" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+</p>
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark Badge" title="Pull Shark Achievement">
