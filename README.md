@@ -90,9 +90,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10&v=2026" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10&v=2026" alt="Top Langs" />
 </p>
 
 <p align="center">
