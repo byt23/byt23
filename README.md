@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/bd9526ce-9600-4cbd-bee6-67c3d132ade7" width="100%" style="border-radius: 10px;" alt="ML ve HealthTech Banner">
 </p>
 
-<h1 align="center">Hello, I'm Berkay TURAN 👋</h1>
+<h1 align="center">Hello everyone, My name is Berkay TURAN 👋</h1>
 
 <h3 align="center">
   🎓 3rd Year Computer Engineering Student at Okan University<br>
