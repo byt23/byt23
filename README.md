@@ -6,7 +6,7 @@
 
 <h3 align="center">
   🎓 3rd Year Computer Engineering Student at Okan University<br>
-  🔬 Enthusiast in MedTech & Image Processing with ML / DL
+  🤖/🩻 Enthusiast in  ML / DL
 </h3>
 
 <p align="center">
