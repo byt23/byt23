@@ -45,9 +45,7 @@
   <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
   </a>
@@ -59,9 +57,7 @@
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   </a>
@@ -80,9 +76,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10&v=2026" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10&v=2026" alt="Top Langs" />
 </p>
 
 <h2 align="center">🏆 Achievements</h2>
