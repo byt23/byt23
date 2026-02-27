@@ -6,7 +6,7 @@
 
 <h3 align="center">
   🎓 3rd Year Computer Engineering Student at Okan University<br>
-  🤖/🩻 Enthusiast in  ML / DL
+  🤖/🩻 Enthusiast in ML / DL
 </h3>
 
 <p align="center">
@@ -18,7 +18,6 @@
 </p>
 
 <div align="center">
-
   <a href="https://linkedin.com/in/berkay-yasar-turan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -28,7 +27,6 @@
   <a href="https://medium.com/@byt23" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-
 </div>
 
 <p align="center">
@@ -90,9 +88,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10&v=2026" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10&v=2026" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
 </p>
 
 <p align="center">
