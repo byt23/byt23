@@ -45,53 +45,47 @@
   <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
   </a>
 </p>
 
-<br>
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=byt23&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
 </p>
+
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark Badge" title="Pull Shark Achievement">
