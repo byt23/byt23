@@ -65,6 +65,10 @@
   <img src="https://streak-stats.demolab.com/?user=byt23&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byt23&theme=radical&radius=10" alt="Activity Graph" />
+</p>
+
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
