@@ -61,6 +61,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=byt23&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=byt23&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
