@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7d68df65-915b-4248-83ba-7937d7226c6e" width="100%" style="border-radius: 10px;" alt="ML ve HealthTech Banner">
+  <img src="https://github.com/user-attachments/assets/deddeaaa-9c52-4737-be66-f2b150a6a89e" width="100%" style="border-radius: 10px;" alt="ML ve HealthTech Banner">
 </p>
 
 
