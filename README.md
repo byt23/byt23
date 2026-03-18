@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/deddeaaa-9c52-4737-be66-f2b150a6a89e" width="100%" style="border-radius: 10px;" alt="ML ve HealthTech Banner">
 </p>
 
-
 <h1 align="center">Hello everyone, My name is Berkay TURAN 👋</h1>
 
 <h3 align="center">
@@ -19,7 +18,7 @@
 </p>
 
 <div align="center">
-  <a href="www.linkedin.com/in/berkayturan" target="_blank">
+  <a href="https://www.linkedin.com/in/berkayturan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/byt_developerr" target="_blank">
@@ -41,6 +40,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/>&nbsp;
