@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="byt_logo" src="https://github.com/user-attachments/assets/8d148d98-7b35-42a4-9e99-1e9c830c648f" width="100%" style="border-radius: 10px;" alt="ML ve HealthTech Banner">
+  <img src="https://github.com/user-attachments/assets/d9e78fcd-9f16-4394-af8a-e06a3ae0c3f5" width="200" alt="byt_logo" />
 </p>
 
 <h1 align="center">Hello everyone, My name is Berkay TURAN 👋</h1>
