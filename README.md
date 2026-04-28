@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/deddeaaa-9c52-4737-be66-f2b150a6a89e" width="100%" style="border-radius: 10px;" alt="ML ve HealthTech Banner">
+  <img src="byt_logo" src="https://github.com/user-attachments/assets/8d148d98-7b35-42a4-9e99-1e9c830c648f" width="100%" style="border-radius: 10px;" alt="ML ve HealthTech Banner">
 </p>
 
 <h1 align="center">Hello everyone, My name is Berkay TURAN 👋</h1>
@@ -40,14 +40,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>&nbsp;
+  <img src="https://img.shields.io/badge/SwiftUI-0052CC?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" height="45"/>&nbsp;
+  <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftData" height="45"/>&nbsp;
+  <img src="https://img.shields.io/badge/SwiftCharts-28B900?style=flat-square&logo=swift&logoColor=white" alt="SwiftCharts" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
 </p>
 
 ---
