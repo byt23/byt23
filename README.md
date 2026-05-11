@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9e78fcd-9f16-4394-af8a-e06a3ae0c3f5" width="200" alt="byt_logo" />
+  <img src="https://github.com/user-attachments/assets/871750c2-3838-4d8b-8f50-f1ea6fab8a7d" width="200" alt="byt_logo" />
 </p>
+
 
 <h1 align="center">Hello everyone, My name is Berkay TURAN 👋</h1>
 
