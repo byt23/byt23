@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/871750c2-3838-4d8b-8f50-f1ea6fab8a7d" width="200" alt="byt_logo" />
+  <img src="https://github.com/user-attachments/assets/ce4699f8-4097-43d3-8089-822abaaff3ef" width="200" alt="byt_logo" />
 </p>
 
 
